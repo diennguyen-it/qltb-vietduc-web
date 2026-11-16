@@ -1,7 +1,5 @@
-# QLTB Viet Duc QR — Website
+# QTTBVT-VDHT.1.01
 
-Bản chạy frontend cho https://qltbvdht.online4you.vn.
+Bản build tĩnh cho https://qltbvdht.online4you.vn/ . Mã nguồn và dữ liệu nội bộ giữ trong kho private. Không chứa dữ liệu thiết bị, password hoặc service_role key. Publishable key không cấp quyền xem dữ liệu; API kiểm quyền ở CSDL.
 
-Kho public này chỉ chứa tài nguyên website đã build, không có file thiết bị, tài liệu nội bộ hoặc khóa bí mật. Dữ liệu cần đăng nhập và được phân quyền tại Supabase. Publishable key trong frontend không cấp quyền đọc dữ liệu.
-
-Phiên bản: 0.1.0. Mã nguồn và tài liệu được quản lý riêng.
+Thông báo thư viện: THIRD_PARTY_NOTICES.txt; giấy phép font: fonts/LICENSE-DejaVu.txt.
