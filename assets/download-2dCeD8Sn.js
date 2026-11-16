@@ -1,0 +1,1 @@
+import{l as n}from"./index-CX2wsHgE.js";function u(c,o){const t=URL.createObjectURL(c),e=document.createElement("a");e.href=t,e.download=o,e.click(),n("Đã tạo file và gửi yêu cầu tải xuống: "+o),setTimeout(()=>URL.revokeObjectURL(t),3e4)}export{u as d};
